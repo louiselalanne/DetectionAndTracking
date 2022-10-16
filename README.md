@@ -9,7 +9,9 @@ pip install opencv-contrib-python
 ```
 
 Goal:
+
 ● Learn about object detection.
+
 ● Plot the trajectory of an object.
 
 ## Example:
